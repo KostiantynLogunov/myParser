@@ -6,5 +6,5 @@
 
 #parser - код парсера
 
-Для формирования пдф использован пакет barryvdh/laravel-dompdf
+#Для формирования пдф использован пакет barryvdh/laravel-dompdf
 ```
